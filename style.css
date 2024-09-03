@@ -1,0 +1,45 @@
+h1{
+    display: block;
+    text-align: center;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: yellow;
+    background-color: red;
+    font-size: 45px;
+    color: white;
+    border-radius: 10px;
+}
+#explicacao{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-color: rgb(25, 63, 129);;
+}
+div{
+    text-align: center;
+}
+.buttons{
+    padding: 20px 50px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(210, 26, 26);
+    border-color: yellow;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: lightcoral;
+}
+#texto{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+#computador{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
